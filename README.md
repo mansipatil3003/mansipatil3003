@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  ☕ Coding late nights & building drea✨
+  ☕ Coding late nights & building dreams ✨
 </p>
 
 ---
