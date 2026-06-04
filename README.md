@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  ✨ Always learning, coding & grow 🌱
+  ✨ Always learning, coding & growing 🌱
 </p>
 
 # 🌸 About Me
