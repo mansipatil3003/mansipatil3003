@@ -45,7 +45,7 @@
 
 ## 🌐 Web Technologies
 - HTML
-- CS
+- CSS
 
 ## ⚡ Core Subjects
 - Data Structures & Algorithms
