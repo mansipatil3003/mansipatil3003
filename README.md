@@ -28,7 +28,7 @@
 
 # 🌸 About Me
 
-🎓 B.Tech Information Technology Stud
+🎓 B.Tech Information Technology Student
 💻 Passionate about Java, DSA & Problem Solving  
 🌱 Currently learning Web Development and GitHub  
 🚀 Improving coding skills every day  
