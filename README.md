@@ -32,7 +32,7 @@
 💻 Passionate about Java, DSA & Problem Solving  
 🌱 Currently learning Web Development and GitHub  
 🚀 Improving coding skills every day  
-✨ Love building clean and beginner-friendly projects  
+✨ Love building clean and beginner-friendly   
 
 ---
 
