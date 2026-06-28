@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mansi  </h1>
+<h1 align="center">Hi 👋, I'm Mansi Patil  </h1>
 
 <h3 align="center">💻 B.Tech IT Student | Java & DSA Learner | Tech Enthusiast</h3>
 
